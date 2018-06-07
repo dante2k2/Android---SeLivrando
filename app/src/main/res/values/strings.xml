@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Se Livrando</string>
+    <string name="login">Login</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nome_evento">Nome do Evento</string>
+    <string name="descricao">Descrição</string>
+    <string name="local">Local</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="long_text">Cras viverra libero quam, sit amet facilisis est mattis a. Suspendisse arcu nulla, sodales et fermentum eget, facilisis vitae libero. Morbi eget rhoncus ipsum. Mauris pretium maximus nibh maximus porta. Curabitur elementum, turpis sed interdum tempus, enim turpis blandit velit, a lobortis sem eros non turpis. Quisque commodo lectus id enim porta, nec molestie quam venenatis. Donec ac nunc lorem.</string>
+    <string name="avatar">Avatar</string>
+    <string name="email">E-Mail</string>
+    <string name="endereco">Endereço</string>
+    <string name="nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="telefone">Telefone</string>
+    <string name="credito">Créditos:</string>
+    <string name="doacoes">Doações:</string>
+    <string name="avaliacoes">Avaliações:</string>
+    <string name="retirada">Retiradas:</string>
+</resources>

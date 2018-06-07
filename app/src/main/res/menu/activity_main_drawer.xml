@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/quantum_ic_art_track_grey600_48"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/my_books"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Meus Livros" />
+        <item
+            android:id="@+id/requests"
+            android:icon="@drawable/quantum_ic_bigtop_updates_white_24"
+            android:title="Pedidos" />
+    </group>
+    <group>
+        <item android:id="@+id/nav_logout"
+            android:title="Sair" />
+    </group>
+
+</menu>
